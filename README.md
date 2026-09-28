@@ -31,7 +31,8 @@ de programação, estruturas de dados e programação orientada a objetos.
 programacao-cpp/
 │
 ├── fundamentos/
-│   ├── calculadora.cpp
+│   ├── calculadora_simples_switch.cpp
+│   ├── nota_semestral_estrutura_condicional.cpp
 │
 ├── ponteiros/
 │

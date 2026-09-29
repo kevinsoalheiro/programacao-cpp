@@ -33,6 +33,7 @@ programacao-cpp/
 ├── fundamentos/
 │   ├── calculadora_simples_switch.cpp
 │   ├── nota_semestral_estrutura_condicional.cpp
+│   ├── tabuada_for.cpp
 │
 ├── ponteiros/
 │

@@ -10,7 +10,7 @@ int main (){
     int num, resultado;
     cin >> num;
 
-    for (int i = 0; i<=10; i++){
+    for (int i = 0; i<=10; i++){ //(inicialização; condição; incremento)
         resultado = num * i;
         cout << "" << num << " x " << i << " = " << resultado << endl;
     }

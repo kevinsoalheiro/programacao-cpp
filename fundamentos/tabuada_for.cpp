@@ -12,7 +12,7 @@ int main (){
 
     for (int i = 0; i<=10; i++){ //(inicialização; condição; incremento)
         resultado = num * i;
-        cout << "" << num << " x " << i << " = " << resultado << endl;
+        cout << "" << i << " x " << num << " = " << resultado << endl;
     }
 
     return 0;

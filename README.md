@@ -35,6 +35,7 @@ programacao-cpp/
 │   ├── 2_nota_semestral_estrutura_condicional.cpp
 │   ├── 3_tabuada_for.cpp
 |   ├── 4_senha_validacao.cpp
+|   ├── 5_nota_validacao_e_media
 │
 ├── ponteiros/
 │

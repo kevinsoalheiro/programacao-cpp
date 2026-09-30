@@ -31,9 +31,10 @@ de programação, estruturas de dados e programação orientada a objetos.
 programacao-cpp/
 │
 ├── fundamentos/
-│   ├── calculadora_simples_switch.cpp
-│   ├── nota_semestral_estrutura_condicional.cpp
-│   ├── tabuada_for.cpp
+│   ├── 1_calculadora_simples_switch.cpp
+│   ├── 2_nota_semestral_estrutura_condicional.cpp
+│   ├── 3_tabuada_for.cpp
+|   ├── 4_senha_validacao.cpp
 │
 ├── ponteiros/
 │
